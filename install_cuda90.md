@@ -1,7 +1,7 @@
 
 ## install cuda 9.0 in COLAB
 cuda 9.0 is already installed in COLAB but they are missing some libraries such as cublas, cusolver, cusparse and curand. 
-use below script. 
+use below script. if you want to use pytorch, don't need to install cuda 9.0
 
 ```
 !rm -rf cuda-repo*
