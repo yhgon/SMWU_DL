@@ -1,0 +1,500 @@
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0001-000.wav|printing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0001-001.wav|in the only sense with which we are at present concerned
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0001-002.wav|differs from most if not from all the arts and crafts represented in the exhibition
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0002-000.wav|in being comparatively modern
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0003-000.wav|for although the chinese took impressions from wood blocks
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0003-001.wav|engraved in relief
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0003-002.wav|for centuries before the woodcutters of the netherlands
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0003-003.wav|by a similar process
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0004-000.wav|produced the black books
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0004-001.wav|which were the immediate predecessors of the true printed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0005-000.wav|the invention of movable metal letters in the middle of the fifteenth century
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0005-001.wav|may justly be considered
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0005-002.wav|as the invention of the art of printing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0006-001.wav|it is worth mentioned in passing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0006-002.wav|that has an example of fine typography
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0007-000.wav|the earliest book
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0007-001.wav|printed with movable types
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0007-002.wav|t guttenberg
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0007-003.wav|or forty two line bible
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0007-004.wav|of about fourteen fifty five
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0008-000.wav|has never been surpassed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0009-000.wav|printing then for our purpose
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0009-001.wav|may be considered as the art of making books
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0009-002.wav|by means of movable
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0010-001.wav|as all books not primarily intended as picture books
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0010-002.wav|consist principally of types composed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0010-003.wav|to form letter press
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0011-000.wav|it is of the first importance
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0011-001.wav|that the letter used should be fine in form
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0012-000.wav|especially as no more time is occupied
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0012-001.wav|or cost incurred
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0012-002.wav|incasting
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0012-003.wav|setting
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0012-004.wav|or printing beautiful letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0013-000.wav|than in the same operations with ugly ones
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0014-000.wav|and it was a matter of course that
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0014-001.wav|in the middle ages
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0014-002.wav|when the crafts ment up
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0014-003.wav|care that beautiful form should always be a part of their productions
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0014-004.wav|whatever they were
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0015-000.wav|the forms of printed letters should be beautiful
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0015-001.wav|and that their arrangement on the
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0015-003.wav|should be reasonable
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0015-004.wav|and a help to the shapeliness of the letters themselves
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0016-000.wav|the middle ages brought calygraphy to perfection
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0016-001.wav|and it was natural therefore
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0017-000.wav|that performs a
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0017-001.wav|printed letters should follow more or less closely those of the written character
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0017-002.wav|and they followed them very closely
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0018-000.wav|the first books were printed in black letter
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0018-001.wav|i e the letter which was a gothic development
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0018-002.wav|of the ancient roman character
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0019-000.wav|and which developed more completely and satisfactorily on the side of the lower case
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0019-001.wav|than the capital letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0020-000.wav|the lower case being in fact invented
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0020-001.wav|in the early middle ages
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0021-000.wav|the earliest book
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0021-001.wav|printed with movable type
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0021-002.wav|the aforesaid guttenberg bible
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0021-003.wav|is printed in letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0021-004.wav|which are in exact imitation
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0022-000.wav|of the more formal ecclesiastical writing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0022-001.wav|which obtained at that time
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0022-002.wav|this has since been called missiletype
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0023-000.wav|and was in fact the kind of letter used in the many splendid missiles
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0023-001.wav|psalters et cetera
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0023-002.wav|produced by printing in the fist
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0023-003.wav|teenth century
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0024-000.wav|but the first bible actually dated
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0024-001.wav|which also was printed at maints by peter chauffeur in the year fourteen sixty two
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0025-000.wav|imitates a much freer hand
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0025-001.wav|simpler
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0025-002.wav|rounder and less spiky
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0025-003.wav|and therefore far pleasanter
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0025-004.wav|and easier to read
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0026-000.wav|an the whole
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0026-001.wav|the type of this book
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0026-002.wav|may be considered
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0026-003.wav|the neplu ultra
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0026-004.wav|o gothic
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0027-000.wav|especially as regards the lower case letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0027-001.wav|and type very similar was used during the next fifth
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0027-002.wav|teen or twenty years
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0027-003.wav|not only by chauffeur
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0028-000.wav|but by printers in strasburg
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0028-003.wav|lubeck and other cities
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0029-001.wav|though on the whole
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0029-002.wav|except in italy
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0029-003.wav|gothic letter was most often used
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0030-000.wav|a very few years saw the birth of roman character
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0030-001.wav|not only in italy
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0030-002.wav|but in germany and france
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0031-000.wav|in fourteen sixty five
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0031-001.wav|swayngheim
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0031-002.wav|and patarts began printing in the monastery
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0031-003.wav|of supiaco near rome
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0032-000.wav|and used an exceedingly beautiful
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0032-002.wav|which is indeed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0032-003.wav|to look
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0032-004.wav|had a transition between
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0032-005.wav|gothic and roman
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0033-000.wav|but which must certainly have come from the study of the twelfth
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0033-001.wav|or even the eleventh century m s s
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0034-000.wav|they printed very few books in this type
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0034-001.wav|three only
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0034-002.wav|but in their very first books in rome
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0034-003.wav|beginning with the year fourteen sixty eight
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0035-000.wav|they discarded this for a more completely roman
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0035-001.wav|and far less beautiful letter
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0036-001.wav|about the same year
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0036-002.wav|mentalin at strasbourg
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0036-003.wav|began to print in a type which is distinctly roman
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0037-000.wav|and the next year
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0037-001.wav|gonther ziner
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0037-002.wav|at augsburg followed suit
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0038-000.wav|while in fourteen seventy
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0038-002.wav|udoric gering and his associates turned out the first books printed in france
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0038-003.wav|also in roman character
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0039-000.wav|the roman type
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0039-001.wav|of all these printers is similar in character
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0040-000.wav|and is very simple and legible
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0040-001.wav|and unaffectedly designed for use
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0040-002.wav|but it is by no means without beauty
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0041-000.wav|it must be said
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0041-001.wav|that it is in no way like the transition type of subiaco
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0042-000.wav|and though more roman than that
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0042-001.wav|yet scarcely more like the complete roman type of the earliest printers of rome
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0043-000.wav|a further development of the roman letter
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0043-001.wav|took place at venice
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0044-000.wav|john of spiers and his brother windolen
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0044-001.wav|followed by nicholas jenson
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0044-002.wav|began to print in that city
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0045-000.wav|fourteen sixty nine
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0045-001.wav|fourteen seventy
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0046-000.wav|their type is on the lines of the german and french
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0046-001.wav|rather than of the roman printers
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0047-000.wav|of jensen it must be said
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0047-001.wav|that he carried the development of roman type as far as it can go
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0048-000.wav|his letter is admirably clear and regular
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0048-001.wav|but at least as beautiful as any other roman type
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0049-000.wav|after his death in the fourteen eighties
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0049-001.wav|or at least by fourteen ninety
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0049-002.wav|printing in venice had declined very much
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0050-001.wav|though the famous family of all this
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0050-002.wav|restored its technical excellence
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0050-003.wav|rejecting
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0050-004.wav|battered letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0051-000.wav|and paying great attention to the press work
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0051-001.wav|or actual process of
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0051-002.wav|printing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0052-000.wav|yet their type is artistically on a much lower level than jenson's
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0052-001.wav|and in fact
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0053-000.wav|they must be considered
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0053-001.wav|to have ended the age of fine printing in italy
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0054-000.wav|janson however
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0054-001.wav|had many contemporaries who used beautiful
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0055-000.wav|some of which as
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0055-001.wav| g that of
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0055-002.wav|jacobus rhubius or jacques la rouge
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0055-003.wav|is scarcely distinguishable from his
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0056-000.wav|it was these great venetian printers together with their brethren of rome
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0057-001.wav|and one or two other cities
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0057-002.wav|who produced the splendid editions of the classic
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0057-003.wav|which are one of the great glories of the printer's art
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0058-000.wav|and are worthy representatives
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0058-001.wav|of the eager enthusiasm
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0058-002.wav|for the revived learning of that epoch
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0059-000.wav|the greater part of these italian printers
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0059-001.wav|it should be mentioned
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0059-002.wav|or germans or frenchmen
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0059-003.wav|working under the influence of italian opinion and aims
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0060-000.wav|it must be understood
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0060-001.wav|that through the whole of the fifteenth
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0060-002.wav|and the first quarter of the sixteenth centuries
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0061-000.wav|the roman letter was used side by side with the gothic
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0062-000.wav|even in italy
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0062-001.wav|most of the theological and law books were printed in gothic letter
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0063-000.wav|which was generally more formally gothic
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0063-001.wav|than the printing of the german workman
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0064-000.wav|many of whose types indeed like that of the subiaco works
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0064-001.wav|are of a transitional character
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0065-000.wav|this was notably the case with the early works printed at home
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0065-001.wav|and in a somewhat lesser degree at augsburg
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0066-000.wav|in fact
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0066-001.wav|gun ther zigner's first type
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0066-002.wav|afterwards used by schustler
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0066-003.wav|is remarkably like the type of the before mentioned subiaquibol
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0067-000.wav|in the low countries and cologne
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0067-001.wav|which were very fertile of
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0067-003.wav|gothic was the favorite
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0068-000.wav|the characteristic dutch type as represented by the excellent
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0068-001.wav|printer
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0068-002.wav|girad lieu
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0068-003.wav|is very pronounced and uncompromising gothic
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0069-000.wav|this type was introduced into england
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0069-001.wav|i winkin to word
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0069-002.wav|caxton's successor
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0070-000.wav|at was used there with very little variation
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0070-001.wav|all through the sixteenth and seventeenth centuries
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0070-002.wav|and indeed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0070-003.wav|into the eighteenth
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0071-000.wav|most of caxton's own types
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0071-001.wav|are of an earlier character
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0071-002.wav|though they also much resemble flemish or cologne letter
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0072-000.wav|after the end of the fifth
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0072-001.wav|teenth century
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0072-002.wav|the degradation of
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0072-003.wav|printing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0072-004.wav|especially in germany and italy
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0073-000.wav|went on apace
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0073-001.wav|and by the end of the sixteenth century
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0073-002.wav|there was no really beautiful printing done
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0074-000.wav|the best mostly french or low country
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0074-001.wav|was neat and clear
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0074-002.wav|but without any distinction
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0075-000.wav|the worst
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0075-001.wav|which perhaps was the english
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0075-002.wav|was a terrible falling off
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0075-003.wav|from the work of the earlier presses
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0076-000.wav|and things got worse and worse
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0076-001.wav|through the whole of the seventeenth century
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0076-002.wav|so that
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0076-003.wav|in the eighteenth
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0076-004.wav|printing was very miserably performed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0077-000.wav|in england about this time an attempt was made
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0077-001.wav|notably by castlon who started business in london as a type founder
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0077-002.wav|in seventeen twenty
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0078-000.wav|to improve the letter in form
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0079-000.wav|casslone's type is clear and neat
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0079-001.wav|and fairly well designed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0080-000.wav|he seems to have taken the letter of the elzevirs of the seventeenth century for his model
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0081-000.wav|type cast from his matresses
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0081-001.wav|is still in everyday use
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0082-000.wav|in spite however of his praiseworthy efforts
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0082-001.wav|printing had still one last degradation to undergo
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0083-000.wav|the seventeenth century founce
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0083-001.wav|were bad rather negatively than positively
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0084-000.wav|but for the beauty of the earlier work
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0084-001.wav|they might have seemed tolerable
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0085-000.wav|it was reserved for the founders of the later eighteenth century
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0085-001.wav|to produce letters which are positively ugly
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0085-002.wav|and which it may be added
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0086-000.wav|are dazzling and unpleasant
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0086-001.wav|to the eye
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0086-002.wav|owing to the clumsy thickening and vulgar finning of the lines
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0087-000.wav|for the seventeenth century letters are at least pure and simple in line
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0087-001.wav|the italian
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0087-002.wav|bordoni and the frenchman
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0088-000.wav|were the leaders in this luckless change
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0088-001.wav|though our own baskerville
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0088-002.wav|who was at work some years before them
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0088-003.wav|went much on the same lines
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0089-000.wav|but his letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0089-001.wav|though uninteresting and
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0089-003.wav|are not nearly so gross and vulgar
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0089-004.wav|as those of either the italian
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0089-005.wav|or the frenchman
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0090-000.wav|wilh this change
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0090-001.wav|the art of printing touched
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0091-000.wav|so far as fine printing is concerned
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0091-001.wav|though paper did not get to it
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0091-002.wav|worst till about a
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0091-003.wav|teen forty
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0092-000.wav|but chiswick press in eighteen forty four revived casslans fote
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0092-001.wav|printing for measrs longman the diary of lady willoughby
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0093-000.wav|this experiment was so far successful
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0093-001.wav|that about eighteen fifty
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0093-002.wav|messrs miller and richard of edinburgh
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0094-000.wav|were induced to cut punches for a series of old style letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0095-000.wav|thees and similar founts
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0095-001.wav|cast by the above firm and others
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0096-000.wav|have now come into general use and are obviously a great improvement
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0096-001.wav|on the ordinary modern style in use in england
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0096-002.wav|which is in fact
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0096-003.wav|the bourdoni type
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0097-000.wav|a little reduced in ugliness
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0097-001.wav|the design of the letters of this modern old style
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0097-002.wav|leaves a good deal to be desired
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0098-000.wav|and the whole effect
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0098-001.wav|is a little too grey owing to the thinness of the letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0099-000.wav|it must be remembered however
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0099-001.wav|that most modern printing is done by machinery on soft paper
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0099-002.wav|and not by the hand press
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0100-000.wav|and these somewhat wiry letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0100-001.wav|are suitable for the machine process
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0100-002.wav|which would not do justice to letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0100-003.wav|of more generous design
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0101-000.wav|it is discouraging to note that the improvement of the last fifty years
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0101-001.wav|is almost wholly confined
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0101-002.wav|too great
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0102-000.wav|here and there a book is printed in france or germany with some pretension to good
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0103-001.wav|the general revival of the old forms
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0103-002.wav|has made no way in those countries
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0104-001.wav|is contentedly stagnant
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0105-000.wav|america has produced a good many showy books
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0105-001.wav|the typography
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0105-002.wav|paper and illustrations of which are however all wrong
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0106-000.wav|oddity rather than rational beauty and meaning
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0106-001.wav|being apparently the thing sought for
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0106-002.wav|in the letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0106-003.wav|and the illustrations
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0107-000.wav|to say a few words on the principles of design and typography
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0108-000.wav|it is obvious that legibility is the first thing to be aimed at
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0108-001.wav|in the forms of the letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0109-000.wav|this is best furthered by the avoidance of irrational swellings and spiky projections and by the using of careful purity of line
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0110-000.wav|even the caslon type
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0110-001.wav|when enlarged
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0110-002.wav|shows great shortcomings in this respect
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0111-000.wav|the ends of many of the letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0111-001.wav|such as the tea and e
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0111-002.wav|are hooked up in a vulgar and meaningless way
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0112-000.wav|instead of ending in the sharp and clear stroke of jenson's letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0113-000.wav|there is a grossness in the upper finishings of letters like the sea
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0113-001.wav|the a and so on
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0114-000.wav|an ugly pear shaped swelling
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0114-001.wav|defacing the form of the letter
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0115-000.wav|in short
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0115-001.wav|it happens to this craft as to others
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0115-002.wav|that the utilitarian practice
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0115-003.wav|though it professes to avoid ornament
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0116-000.wav|still clings to a foolish
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0116-001.wav|because misunderstood conventionality
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0116-002.wav|deduced from what was once ornament
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0116-003.wav|and is by no means useful
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0117-000.wav|which title can only be claimed by artistic practice
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0117-001.wav|whether the art
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0117-002.wav|in it be conscious or unconscious
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0118-000.wav|in no characters is the contrast between the ugly and vulgar illegibility of the modern type
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0119-000.wav|and the elegance and legibility of the ancient
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0119-001.wav|more striking than in the arabic numerals
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0120-000.wav|in the old print
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0120-001.wav|each figure has its definite individuality
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0120-002.wav|and one cannot be mistaken for the other
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0121-000.wav|in reading the modern figures
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0121-001.wav|the eyes must be strained before the reader can have any reasonable assurance
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0122-000.wav|that he has a five
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0122-001.wav|and eight
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0122-002.wav|or ae three before him
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0122-003.wav|unless the press work is of the best
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0123-000.wav|this is awkward if you have to read bradshaw's duide in a hurry
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0124-000.wav|one of the differences between the fine type and the utilitarian must
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0124-001.wav|probably be put down
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0124-002.wav|to a misapprehension of a commercial necessity
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0125-000.wav|this is the narrowing of the modern letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0126-000.wav|most of jenson's letters are designed within a square
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0127-000.wav|the modern letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0127-001.wav|are narrowed by a third or thereabout
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0127-002.wav|but while this gain of space very much hampers the possibility of
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0127-003.wav|beauty of design
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0128-000.wav|it is not a real gain
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0128-001.wav|for the modern printer throws the gate away
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0128-002.wav|by putting inordinately wide spaces between his lines
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0128-003.wav|which probably
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0129-000.wav|the lateral compression of his letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0129-001.wav|renders necessary
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0130-000.wav|commercialism again compels the use of type too small in size to be comfortable reading
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0131-000.wav|the size known as long primer
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0131-001.wav|ought to be the smallest size used in a book meant to be read
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0132-000.wav|here again
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0132-001.wav|if the practice of leading
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0132-002.wav|were retrenched
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0132-003.wav|larger type could be used without enhancing the price of a book
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0133-000.wav|one very important matter in setting up for fine printing is thi spacing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0133-001.wav|that is the lateral distance of words from one another
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0134-000.wav|in good printing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0134-001.wav|the spaces between words should be as near as possible equal
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0135-000.wav|it is impossible that they should be
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0135-001.wav|quite equal except in lines of
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0136-000.wav|modern printers understand this
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0136-001.wav|it is only practised in the very best establishment
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0137-000.wav|but another point which they should attend to
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0137-001.wav|they almost always disregard
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0138-000.wav|this is the tendency to the formation of ugly meandering white lines or rivers in the page
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0139-000.wav|a blemish
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0139-001.wav|which can be nearly though not wholly avoided
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0139-002.wav|by care and forethought
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0140-000.wav|the desirable thing being the breaking of the line
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0140-001.wav|as in bonding masonry or brickwork
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0141-000.wav|the general solidity of a page
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0141-001.wav|is much to be sought for
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0142-000.wav|modern printers generally overdo the whites in the spacing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0142-001.wav|a defect
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0142-002.wav|probably forced on them by the characterless quality of the letters
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0143-000.wav|for where these are boldly and carefully designed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0143-001.wav|and each letter is
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0143-002.wav|thoroughly individual in form
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0144-000.wav|the words may be set much closer together
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0144-001.wav|without loss of
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0144-002.wav|clearness
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0145-000.wav|no definite rules however
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0145-002.wav|the avoidance of rivers
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0145-003.wav|and excessive
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0145-004.wav|whight can be given for the spacing
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0146-000.wav|which requires the constant exercise of judgment and taste on the part of the
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0146-001.wav|printer
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0147-000.wav|the position of the page on the paper
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0147-001.wav|should be considered
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0147-002.wav|if the book is to have a satisfactory look
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0148-000.wav|here once more
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0148-001.wav|the almost invariable modern practice
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0148-002.wav|is in opposition
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0148-003.wav|to a natural sense of proportion
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0149-000.wav|from the time when books first
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0149-001.wav|took their present shape
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0149-002.wav|till the end of the sixteenth century
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0149-003.wav|or indeed later
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0150-000.wav|the page soul lay on the paper
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0150-001.wav|that there was more space allowed to the
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0150-003.wav|and for margin
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0150-004.wav|then to the top and
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0150-005.wav|back of the paper
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0151-000.wav|the unit of the book being looked on
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0151-001.wav|as the two pages
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0151-002.wav|forming an opening
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0152-000.wav|the modern printer
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0152-001.wav|in the teeth of the evidence given by his own eyes
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0152-002.wav|considers the single page as the unit
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0152-003.wav|and prints the page in the middle of his paper
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0153-000.wav|only nominally so
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0153-001.wav|however in many cases
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0153-002.wav|since when he uses a headline
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0153-003.wav|he counts that in
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0154-000.wav|the result is measured by the eye
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0154-001.wav|being that the lower margin is less than the top one
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0154-002.wav|and that the whole opening has an upside down look vertically
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0155-000.wav|and that latterly
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0155-001.wav|the page looks
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0155-002.wav|as if it were being driven off the paper
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0156-000.wav|the paper on which the printing is to be done
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0156-001.wav|is a necessary part of our subject
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0157-000.wav|of this it may be said
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0157-001.wav|though there is some good paper made now
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0158-000.wav|it is never used except for very expensive
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0158-002.wav|although
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0158-003.wav|it would not materially increase the cost in all but the very cheapest
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0159-000.wav|the paper that is used for ordinary books is exceedingly bad
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0159-001.wav|even in this country
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0159-003.wav|is beaten in the race for vileness
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0160-000.wav|by that made in america
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0160-001.wav|which is the worst
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0160-002.wav|conceivable
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0161-000.wav|there seems to be no reason why ordinary paper should not be better made
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0162-000.wav|even allowing the necessity for a very low price
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0162-001.wav|any improvement must be based on showing openly
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0162-002.wav|that the cheap article
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0163-000.wav|e g the cheap
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0163-001.wav|paper should not sacrifice toughness and durability
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0163-002.wav|to a smooth and white surface
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0164-000.wav|which should be indications of a delicacy of material
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0164-001.wav|and manufacture
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0164-002.wav|which would of necessity
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0164-003.wav|increase its cost
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0165-000.wav|one fruitful source of badness in paper
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0166-000.wav|is the habit
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0166-001.wav|that publishers have of eking out a thin volume
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0166-002.wav|by printing it on thick paper
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0166-003.wav|almost of the substance of cardboard
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0167-000.wav|a device which deceives nobody
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0167-001.wav|and makes a book
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0167-002.wav|very unpleasant to read
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0168-000.wav|on the whole
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0168-001.wav|a smare dock
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0168-002.wav|should be printed on paper which is as
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0168-003.wav|than as may be
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0168-004.wav|without being transparent
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0169-000.wav|the paper used for printing the small
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0169-001.wav|highly ornamented french service books
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0169-002.wav|about the beginning of the sixteenth century
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0169-003.wav|is a model in this respect
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0170-000.wav|being thin
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0170-001.wav|tough and opaque
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0171-000.wav|however
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0171-001.wav|the fact must not be blink
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0171-002.wav|that machine made paper cannot
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0171-003.wav|in the nature of things be made of so good a texture
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0171-004.wav|as that made by hand
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0172-000.wav|the ornamentation of
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0172-001.wav|books is too wide a subject
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0172-002.wav|to be dealt with
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0172-003.wav|fully here
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0172-004.wav|but one thing must be said on it
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0173-000.wav|the essential point to be remembered
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0173-001.wav|is that the ornament
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0173-002.wav|whatever it is
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0173-003.wav|whether picture or pattern work
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0173-004.wav|should form part of the page
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0174-000.wav|should be a part of the whole scheme of the book
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0175-000.wav|simple as this proposition is
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0175-001.wav|it is necessary to be stated
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0176-000.wav|because the modern practice is to disregard the relation between the printing and the ornament altogether
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0177-000.wav|so that if the two are helpful to one another
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0177-001.wav|it is a mere matter of accident
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0178-000.wav|the due relation of letter
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0178-001.wav|to pictures and other ornament
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0178-002.wav|was thoroughly understood by the old printers
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0178-003.wav|so that
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0179-000.wav|even when the wood cuts are very rude indeed
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0180-000.wav|the proportions of the page
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0180-001.wav|still give pleasure
+/mnt/workspace/chunkspeech/ljspeech_deno_cycle1/LJSpeech-1.1/wavs_split_try1/LJ001-0180-002.wav|by the sense of richness that the
